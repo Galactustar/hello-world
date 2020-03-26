@@ -1,2 +1,2 @@
 # hello-world
-just a start
+This page is just starting with the tool.
